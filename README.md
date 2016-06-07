@@ -1,0 +1,2 @@
+# faron-theme
+Faron Theme
