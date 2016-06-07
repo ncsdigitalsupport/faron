@@ -1,0 +1,8 @@
+global-styles:
+  css:
+    component:
+      css/custom.css: {}
+global-fonts:
+  css:
+    component:
+      //fonts.googleapis.com/css?family=Lustria: { type: external }

@@ -1,0 +1,26 @@
+name: Faron
+type: theme
+description: Subtheme of Bootstrap
+core: 8.x
+base theme: bootstrap
+
+libraries:
+  - faron/global-styles
+  - faron/global-scripts
+  - faron/global-fonts
+
+regions:
+  top_bar: Top Bar
+  branding: Branding
+  main_navigation: Main Navigation
+  navigation_collapsible: Navigation (Collapsible)
+  help: Help
+  content_first: Content First
+  sidebar_first: Primary Sidebar
+  content_middle: Content Middle
+  content_second: Content Second
+  sidebar_second: Second Sidebar
+  footer: Footer
+  footer_second: Footer Second
+  page_top: Page Top
+  page_bottom: Page Bottom
